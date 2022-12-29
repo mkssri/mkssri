@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Murali
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently Operating Systems, System Design and Database Management Systems.
+- 🌱 I’m currently learning Operating Systems, System Design and Database Management Systems.
 - 💞️ I’m looking to collaborate on any SWE Projects.
 - 📫 How to reach me muralikrishnasai36@gmail.com/mksriram@uci.edu
 
