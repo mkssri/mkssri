@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Murali [portfolio website](https://mkssri.github.io/)
+- 👋 Hi, I’m Murali, My [portfolio website](https://mkssri.github.io/) :)
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Operating Systems, System Design and Database Management Systems.
 - 💞️ I’m looking to collaborate on any SWE Projects.
